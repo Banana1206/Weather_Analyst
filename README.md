@@ -1,2 +1,2 @@
 # Weather_Dashboard_panel
-![](img_dashboard\panel_weather_dashboard.png)
+![Dashboard](https://github.com/Banana1206/Weather_Analyst/blob/main/img_dashboard/panel_weather_dashboard.png)
